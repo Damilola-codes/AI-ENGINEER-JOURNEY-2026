@@ -1,0 +1,1 @@
+This folder is basically to capture the core concept on writing python script, learning some concept about python, and its pros and cons. This chapter is also for me to challenge myself to be better at what I do. This README file is just about me starting purely with the fundamental about python.
